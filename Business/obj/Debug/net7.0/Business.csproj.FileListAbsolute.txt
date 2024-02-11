@@ -1,0 +1,15 @@
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\2024 C# KAMP\MaskeTakip\Business\bin\Debug\net7.0\Business.deps.json
+C:\2024 C# KAMP\MaskeTakip\Business\bin\Debug\net7.0\Business.dll
+C:\2024 C# KAMP\MaskeTakip\Business\bin\Debug\net7.0\Business.pdb
+C:\2024 C# KAMP\MaskeTakip\Business\bin\Debug\net7.0\Entities.dll
+C:\2024 C# KAMP\MaskeTakip\Business\bin\Debug\net7.0\Entities.pdb
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.dll
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\refint\Business.dll
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\Business.pdb
+C:\2024 C# KAMP\MaskeTakip\Business\obj\Debug\net7.0\ref\Business.dll
